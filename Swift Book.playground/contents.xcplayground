@@ -16,5 +16,6 @@
         <page name='Eddie'/>
         <page name='Will'/>
         <page name='Practice Test'/>
+        <page name='Classes and structs with Will'/>
     </pages>
 </playground>
