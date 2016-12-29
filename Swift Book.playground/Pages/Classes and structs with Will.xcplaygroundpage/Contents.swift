@@ -68,5 +68,5 @@ elevator.speed = "super fast"
 let hudson = Building()
 hudson.elevators = elevator
 
-hudson.elevators.speed  
+hudson.elevators.speed
 

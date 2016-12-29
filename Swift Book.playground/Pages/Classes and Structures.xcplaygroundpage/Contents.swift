@@ -39,3 +39,11 @@ class VideoMode {
 
 
 
+let someResolution = Resolution()
+let someVideoMode = VideoMode()
+
+// Accessing Properties
+
+print("The width of someResolution is \(someResolution.width)")
+//Prints "The width of someVideoMode is 0"
+
